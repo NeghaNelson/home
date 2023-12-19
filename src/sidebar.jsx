@@ -1,7 +1,16 @@
 import React from "react";
-const Sidebar=()_ =>{
+import './Sidebar.css'
+const Sidebar=() =>{
     return(
-        <div>sidebar</div>
+        <div className="Sidebars">
+            <div className="logo">
+                <img src={logo} alt=""/>
+                <span>
+                    Sh<span>o</span>ps
+                </span>
+            </div>
+        </div>
+        
     )
 }
 export default sidebar
