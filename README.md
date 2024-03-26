@@ -1,3 +1,3 @@
 # Getting Started with Create React App
-lets get started
+lets get started.
 
